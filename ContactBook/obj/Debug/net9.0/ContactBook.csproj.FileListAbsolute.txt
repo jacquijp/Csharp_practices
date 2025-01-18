@@ -1,0 +1,14 @@
+c:\Users\Puerquita\source\repos\Csharp-exercises-jjp\ContactBook\bin\Debug\net9.0\ContactBook.exe
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\ContactBook\bin\Debug\net9.0\ContactBook.deps.json
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\ContactBook\bin\Debug\net9.0\ContactBook.runtimeconfig.json
+c:\Users\Puerquita\source\repos\Csharp-exercises-jjp\ContactBook\bin\Debug\net9.0\ContactBook.dll
+c:\Users\Puerquita\source\repos\Csharp-exercises-jjp\ContactBook\bin\Debug\net9.0\ContactBook.pdb
+c:\Users\Puerquita\source\repos\Csharp-exercises-jjp\ContactBook\obj\Debug\net9.0\ContactBook.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Puerquita\source\repos\Csharp-exercises-jjp\ContactBook\obj\Debug\net9.0\ContactBook.AssemblyInfoInputs.cache
+c:\Users\Puerquita\source\repos\Csharp-exercises-jjp\ContactBook\obj\Debug\net9.0\ContactBook.AssemblyInfo.cs
+c:\Users\Puerquita\source\repos\Csharp-exercises-jjp\ContactBook\obj\Debug\net9.0\ContactBook.csproj.CoreCompileInputs.cache
+c:\Users\Puerquita\source\repos\Csharp-exercises-jjp\ContactBook\obj\Debug\net9.0\ContactBook.dll
+c:\Users\Puerquita\source\repos\Csharp-exercises-jjp\ContactBook\obj\Debug\net9.0\refint\ContactBook.dll
+c:\Users\Puerquita\source\repos\Csharp-exercises-jjp\ContactBook\obj\Debug\net9.0\ContactBook.pdb
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\ContactBook\obj\Debug\net9.0\ContactBook.genruntimeconfig.cache
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\ContactBook\obj\Debug\net9.0\ref\ContactBook.dll
