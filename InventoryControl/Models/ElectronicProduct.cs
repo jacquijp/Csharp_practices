@@ -1,6 +1,6 @@
 using System;
 
-namespace InventaryControl.Models
+namespace InventoryControl.Models
 {
     internal class ElectronicProduct : Product
     {
