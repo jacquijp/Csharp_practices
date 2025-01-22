@@ -1,0 +1,15 @@
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\InventoryControl\obj\Debug\net9.0\InventoryControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\InventoryControl\obj\Debug\net9.0\InventoryControl.AssemblyInfoInputs.cache
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\InventoryControl\obj\Debug\net9.0\InventoryControl.AssemblyInfo.cs
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\InventoryControl\obj\Debug\net9.0\InventoryControl.csproj.CoreCompileInputs.cache
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\InventoryControl\obj\Debug\net9.0\InventoryControl.sourcelink.json
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\InventoryControl\bin\Debug\net9.0\InventoryControl.exe
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\InventoryControl\bin\Debug\net9.0\InventoryControl.deps.json
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\InventoryControl\bin\Debug\net9.0\InventoryControl.runtimeconfig.json
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\InventoryControl\bin\Debug\net9.0\InventoryControl.dll
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\InventoryControl\bin\Debug\net9.0\InventoryControl.pdb
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\InventoryControl\obj\Debug\net9.0\InventoryControl.dll
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\InventoryControl\obj\Debug\net9.0\refint\InventoryControl.dll
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\InventoryControl\obj\Debug\net9.0\InventoryControl.pdb
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\InventoryControl\obj\Debug\net9.0\InventoryControl.genruntimeconfig.cache
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\InventoryControl\obj\Debug\net9.0\ref\InventoryControl.dll
