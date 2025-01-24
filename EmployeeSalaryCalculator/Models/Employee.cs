@@ -1,52 +1,45 @@
 using System.Text.RegularExpressions;
-class Employee 
+
+public abstract class Employee // Only abstract classes can create abstract methods and give them to dependant classes later
 {
-    public string FirstName {get; set;}
-    public string LastName {get; set;}
-    public string Position {get; set;}
-    public decimal MonthlySalary {get; set;}
+    public string FirstName { get; set; }
+    public string LastName { get; set; }
+    public string Position { get; set; }
+    public decimal MonthlySalary { get; set; }
 
-    public Employee (string firstName, string lastName, string position, decimal monthlySalary)
+    // Constructor
+    public Employee(string firstName, string lastName, string position, decimal monthlySalary)
     {
-        if (!isValidFirstName(firstName))
+        if (!IsValidFirstName(firstName))
         {
-            throw new ArgumentException("Names must contain only letters");
+            throw new ArgumentException("First name must contain only letters and spaces.");
         }
-        if (!isValidLastName(lastName))
+        if (!IsValidLastName(lastName))
         {
-            throw new ArgumentException("Names must contain only letters");
-        }
-
-        if (!isValidMonthlySalary(monthlySalary))
-        {
-            throw new ArgumentException("Salary must contain only numbers");
+            throw new ArgumentException("Last name must contain only letters and spaces.");
         }
 
-        {
-        this.FirstName = firstName;
-        this.LastName = lastName;
-        this.Position = position;
-        this.MonthlySalary = monthlySalary;
-        }
+        FirstName = firstName;
+        LastName = lastName;
+        Position = position;
+        MonthlySalary = monthlySalary;
     }
 
-
-    private bool isValidFirstName (string firstName)
+    // Validating name
+    private bool IsValidFirstName(string firstName)
     {
         string firstNamePattern = @"^[a-zA-Z\s]+$";
         return Regex.IsMatch(firstName, firstNamePattern);
     }
-    private bool isValidLastName (string lastName)
+
+    // Validating last name
+    private bool IsValidLastName(string lastName)
     {
         string lastNamePattern = @"^[a-zA-Z\s]+$";
         return Regex.IsMatch(lastName, lastNamePattern);
     }
-    private bool isValidMonthlySalary (decimal monthlySalary)
-    {
-        decimal monthlySalaryPattern = @"^\d+(\.\d+)?$";
-        return monthlySalary > 0; //for decimal we only need to validate if it's bigger than 0
-    }
 
-    public abstract decimal calculateMonthlySalary(); //we declare the abstract method first in the base class
-
+    // Abstract methods
+    public abstract decimal CalculateMonthlySalary(); 
+    public abstract void DisplayInfo(); 
 }

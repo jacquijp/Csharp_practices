@@ -1,0 +1,15 @@
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\EmployeeSalaryCalculator\obj\Debug\net9.0\EmployeeSalaryCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\EmployeeSalaryCalculator\obj\Debug\net9.0\EmployeeSalaryCalculator.AssemblyInfoInputs.cache
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\EmployeeSalaryCalculator\obj\Debug\net9.0\EmployeeSalaryCalculator.AssemblyInfo.cs
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\EmployeeSalaryCalculator\obj\Debug\net9.0\EmployeeSalaryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\EmployeeSalaryCalculator\obj\Debug\net9.0\EmployeeSalaryCalculator.sourcelink.json
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\EmployeeSalaryCalculator\bin\Debug\net9.0\EmployeeSalaryCalculator.exe
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\EmployeeSalaryCalculator\bin\Debug\net9.0\EmployeeSalaryCalculator.deps.json
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\EmployeeSalaryCalculator\bin\Debug\net9.0\EmployeeSalaryCalculator.runtimeconfig.json
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\EmployeeSalaryCalculator\bin\Debug\net9.0\EmployeeSalaryCalculator.dll
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\EmployeeSalaryCalculator\bin\Debug\net9.0\EmployeeSalaryCalculator.pdb
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\EmployeeSalaryCalculator\obj\Debug\net9.0\EmployeeSalaryCalculator.dll
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\EmployeeSalaryCalculator\obj\Debug\net9.0\refint\EmployeeSalaryCalculator.dll
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\EmployeeSalaryCalculator\obj\Debug\net9.0\EmployeeSalaryCalculator.pdb
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\EmployeeSalaryCalculator\obj\Debug\net9.0\EmployeeSalaryCalculator.genruntimeconfig.cache
+C:\Users\Puerquita\source\repos\Csharp-exercises-jjp\EmployeeSalaryCalculator\obj\Debug\net9.0\ref\EmployeeSalaryCalculator.dll
